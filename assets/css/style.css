@@ -1,0 +1,48 @@
+.container{
+    margin: 10%;
+}
+.a{
+    background: tomato;
+    margin-bottom: 2%;
+    padding: 3%;
+    font-size: 40px;
+    font-weight: bold;
+}
+.b{
+    background: palegreen;
+    margin-bottom: 2%;
+    padding: 3%;
+}
+.c{
+    background: wheat;
+    margin-bottom: 2%;
+    padding: 3%;
+     
+}
+.d{
+    background: powderblue;
+    margin-bottom: 2%;
+    padding: 3%;
+    margin-left: 1%;
+}
+.e{
+    
+    margin-bottom: 2%;
+    
+}
+.f{
+    background: dodgerblue;
+    margin-bottom: 2%;
+    
+}
+.g{
+    background: dodgerblue;
+    margin-bottom: 2%;
+    padding: 3%;
+    font-size: 30px;
+    font-weight: bold;
+}
+img{
+    margin-right: 3%;
+    width: 80px;
+}
