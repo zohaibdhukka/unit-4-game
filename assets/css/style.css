@@ -2,7 +2,8 @@ body{
     background-size:     cover;                      
     background-repeat:   no-repeat;
     background-position: center center;
-    background-image: url("https://cdn.pixabay.com/photo/2016/10/29/01/24/abstract-1779559_1280.jpg");
+    background-color: #39e4f0;
+    background-image: url("https://www.transparenttextures.com/patterns/black-linen.png");
 }
 .container{
     margin: 10%;
